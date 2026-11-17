@@ -1,17 +1,26 @@
-# Assunto estudado
+# 🖥️ Shell & Bash Fundamentals
 
-## O que é
+**Repositório de estudos sobre fundamentos de Shell, Bash e comandos de terminal.**
 
-Explicação escrita com minhas palavras.
+## 📌 Sobre o projeto
 
-## O que aprendi
+Este repositório reúne anotações, fundamentos e exemplos práticos desenvolvidos durante meus estudos de Shell e Bash.
 
-Principais conhecimentos adquiridos.
+O objetivo é compreender o funcionamento do terminal, conhecer comandos essenciais e desenvolver habilidades para interagir com sistemas operacionais por meio de linhas de comando.
 
-## Aplicação prática
+O conteúdo é organizado para facilitar a consulta, revisão e aplicação prática dos conhecimentos adquiridos.
 
-Comandos, exercícios ou exemplos realizados.
+## 🎯 Objetivos
 
-## Aplicação em QA
+- Compreender os fundamentos de Shell e Bash.
+- Conhecer e praticar comandos de terminal.
+- Desenvolver familiaridade com ambientes de linha de comando.
+- Aprender a executar comandos e scripts.
+- Organizar conhecimentos técnicos em documentação.
+- Explorar possibilidades de automação de tarefas.
 
-Como esse conhecimento pode ajudar um profissional de qualidade.
+## 📚 Conteúdo do repositório
+
+### 1. Fundamentos
+
+Conceitos introdutórios sobre Shell e Bash, funcionamento do
